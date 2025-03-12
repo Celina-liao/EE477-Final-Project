@@ -5,7 +5,7 @@
 # you may manually define constraints here as well.
 #
 
-set CORE_CLOCK_PERIOD      10
+set CORE_CLOCK_PERIOD      6.5
 set IO_MASTER_CLOCK_PERIOD 20
 
 # << arguments >>
